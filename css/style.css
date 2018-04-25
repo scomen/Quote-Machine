@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  //background-color: blue;
+}
+
+body{
+  background-color: white;
+  font-family: "Lobster Two", cursive;
+  font-size: 2em;
+}
+
+#main_container{
+}
+.container-fluid{
+  height:100%;
+  padding-left: 0px;
+  padding-right 0px;
+}
+.row-first{
+  height: 80%;
+  overflow: hidden;
+}
+#quote{
+  border:1px;
+  background-color: white;
+  border-top-right-radius:5px;
+  border-top-left-radius:5px;
+  padding: 15px;
+}
+#bottom{
+  border:1px;
+  background-color:white;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.buffer{
+
+}
+#test{
+  margin: auto px;
+}
+
+#button{
+  font-size: .5em;
+  font-family: anton;
+  padding: 5px 5px 5px 5px;
+  bottom-margin:25px;
+  border-radius: 5px;
+  border: 0px;
+}
+#signature{
+  color: black;
+  padding: 0px;
+  font-size: 16px;
+  font-family: anton;
+}
