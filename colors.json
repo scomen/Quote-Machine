@@ -1,82 +1,82 @@
 [
 	{
 		"id": 1,
-		"color": "#FF4848	"
+		"color": "Pink"
 	},
 	{
 		"id": 2,
-		"color": "#FF68DD"
+		"color": "LightPink"
 	},
 	{
 		"id": 3,
-		"color": "#FF62B0"
+		"color": "HotPink"
 	},
 	{
 		"id": 4,
-		"color": "#FE67EB"
+		"color": "DeepPink"
 	},
 	{
 		"id": 5,
-		"color": "#D568FD"
+		"color": "PaleVioletRed"
 	},
 	{
 		"id": 6,
-		"color": "#E469FE"
+		"color": "MediumVioletRed"
 	},
 	{
 		"id": 7,
-		"color": "#9669FE"
+		"color": "LightSalmon"
 	},
 	{
 		"id": 8,
-		"color": "#FF7575"
+		"color": "Salmon"
 	},
 	{
 		"id": 9,
-		"color": "#FF79E1"
+		"color": "DarkSalmon"
 	},
 	{
 		"id": 10,
-		"color": "#FF73B9"
+		"color": "LightCoral"
 	},
 	{
 		"id": 11,
-		"color": "#FE67EB"
+		"color": "IndianRed"
 	},
 	{
 		"id": 12,
-		"color": "#E77AFE"
+		"color": "Crimson"
 	},
 	{
 		"id": 13,
-		"color": "#D97BFD"
+		"color": "FireBrick"
 	},
 	{
 		"id": 14,
-		"color": "#A27AFE"
+		"color": "DarkRed"
 	},
 	{
 		"id": 15,
-		"color": "#FF8A8A"
+		"color": "Red"
 	},
 	{
 		"id": 16,
-		"color": "#FF86E3"
+		"color": "OrangeRed"
 	},
 	{
 		"id": 17,
-		"color": "#FF86C2"
+		"color": "Tomato"
 	},
 	{
 		"id": 18,
-		"color": "#FE8BF0"
+		"color": "Coral"
 	},
 	{
 		"id": 19,
-		"color": "#EA8DFE"
+		"color": "DarkOrange"
 	},
 	{
 		"id": 20,
-		"color": "#DD88FD"
+		"color": "Orange"
 	}
 ]
