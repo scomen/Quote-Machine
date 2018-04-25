@@ -1,5 +1,4 @@
 {
-  [
     {
       "id": 1,
       "color": "salmon"
@@ -12,5 +11,4 @@
       "id": 3,
       "color": "yellow"
     }
-  ]
 }
